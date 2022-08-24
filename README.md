@@ -1,6 +1,6 @@
 ### Hi there! 👋👋👋
 
-- 🔭 Software development intern at Horus;
+- 🔭 System Analyst at CI&T;
 - 🌱 Actually studying Java, Python, Typescript and React;
 - ⚡ Improving my skills to become a data-driven software engineer.
 
