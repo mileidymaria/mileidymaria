@@ -1,7 +1,7 @@
 ### Hi there! 👋👋👋
 
 - 🔭 System Analyst at CI&T;
-- 🌱 Actually studying Java, Python, Typescript and React;
+- 🌱 Actually studying Java, Typescript and Angular;
 - ⚡ Improving my skills to become a data-driven software engineer.
 
 ### 🚀 Quick Stats
