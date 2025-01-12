@@ -1,6 +1,6 @@
 ### Hi there! 👋👋👋
 
-- 🔭 System Analyst Pleno at CI&T;  
+- 🔭 Mid Level System Analyst;  
 - 🎓 Bachelor in Information Systems;  
 - 🎓 Postgraduate in Database Administration;  
 - 💙 Enthusiast of Flutter Development;  
